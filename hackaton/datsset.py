@@ -1,6 +1,24 @@
 import sqlite3
+import requests
 
-conn = sqlite3.connect('sogrape_analytics.csv')
+url = "https://www.continente.pt/pesquisa/"
+response = requests.get(url)
+
+if response.status_code == 200:
+    html = response.text
+else:
+    print("Falha na solicitação HTTP.")
+
+from bs4 import BeautifulSoup
+
+soup = BeautifulSoup(html, 'html.parser')
+
+# Exemplo: Extrair texto de um elemento com a classe "exemplo"
+elemento = soup.find("ean", class_="&ean=560")
+dado = elemento.csv
+
+
+conn = sqlite3.connect(dado)
 
 cursor = conn.cursor()
 
@@ -23,6 +41,6 @@ from eansearch import EANSearch
 apiToken = "abcdef"
 
 eansearch = EANSearch(apiToken)
-eanList = eansearch.barcodePrefixSearch('0885909');
+eanList = eansearch.barcodePrefixSearch('560');
 for product in eanList:
 	print(product["ean"], " is ", product["name"].encode("utf-8")) """

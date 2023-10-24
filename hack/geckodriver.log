@@ -1,0 +1,39 @@
+1698155251770	geckodriver	INFO	Listening on 127.0.0.1:41631
+1698155343344	geckodriver	INFO	Listening on 127.0.0.1:48389
+1698155349922	geckodriver	INFO	Listening on 127.0.0.1:37903
+1698155443042	geckodriver	INFO	Listening on 127.0.0.1:34715
+1698155663193	geckodriver	INFO	Listening on 127.0.0.1:53339
+1698155669803	geckodriver	INFO	Listening on 127.0.0.1:56775
+/nfs/homes/agpereir/.wdm/drivers/geckodriver/linux64/v0.33.0/geckodriver: error: Found argument '--connect-timeout' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--connect-existing'?
+
+	If you tried to supply `--connect-timeout` as a value rather than a flag, use `-- --connect-timeout`
+
+USAGE:
+    geckodriver --port <PORT> --connect-existing
+
+For more information try --help
+
+/nfs/homes/agpereir/.wdm/drivers/geckodriver/linux64/v0.33.0/geckodriver: error: Found argument '--connect-timeout' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--connect-existing'?
+
+	If you tried to supply `--connect-timeout` as a value rather than a flag, use `-- --connect-timeout`
+
+USAGE:
+    geckodriver --port <PORT> --connect-existing
+
+For more information try --help
+
+/nfs/homes/agpereir/.wdm/drivers/geckodriver/linux64/v0.33.0/geckodriver: error: Found argument '--connect-timeout' which wasn't expected, or isn't valid in this context
+
+	Did you mean '--connect-existing'?
+
+	If you tried to supply `--connect-timeout` as a value rather than a flag, use `-- --connect-timeout`
+
+USAGE:
+    geckodriver --port <PORT> --connect-existing
+
+For more information try --help
+
