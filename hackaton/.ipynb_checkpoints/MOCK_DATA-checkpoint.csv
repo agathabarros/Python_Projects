@@ -1,0 +1,251 @@
+Store Name,Wine Name,Harvest Year,Capacity,Price,Currency,Date of Scraping,Location,Discount
+SuperMart,Sauvignon Blanc,1937,1.0,924.91,Euro,2/24/2023,Los Angeles,false
+MegaStore,Zinfandel,1969,0.5,339.72,Marka,3/3/2023,Los Angeles,false
+ShopSmart,Grenache,2000,0.75,446.59,Euro,7/31/2023,Tokyo,true
+ValueMart,Chardonnay,1921,1.0,185.95,Peso,8/12/2023,Los Angeles,true
+ValueMart,Zinfandel,1981,0.75,888.43,Yuan Renminbi,10/27/2022,Los Angeles,false
+MegaStore,Sauvignon Blanc,1969,1.0,355.78,Lempira,12/3/2022,New York,false
+ValueMart,Zinfandel,1988,1.0,702.57,Rupiah,8/12/2023,New York,false
+SuperMart,Riesling,1986,1.0,274.3,Som,6/8/2023,Tokyo,true
+ValueMart,Pinot Noir,2002,0.75,812.84,Peso,1/29/2023,New York,true
+SuperMart,Riesling,1983,0.5,383.38,Euro,6/30/2023,Tokyo,true
+MegaStore,Riesling,1991,1.0,583.33,Yuan Renminbi,8/2/2023,London,false
+QuickMart,Merlot,2008,0.5,317.85,Ruble,2/5/2023,Paris,true
+MegaStore,Zinfandel,1996,0.5,195.43,Ruble,2/26/2023,Paris,false
+QuickMart,Zinfandel,2003,0.75,188.43,Real,8/17/2023,Los Angeles,true
+ValueMart,Sauvignon Blanc,1903,0.75,288.65,Rupiah,8/22/2023,Tokyo,true
+ShopSmart,Syrah,1902,0.75,342.43,Real,3/11/2023,New York,true
+QuickMart,Zinfandel,1980,0.5,371.85,Koruna,5/26/2023,Paris,true
+QuickMart,Syrah,2005,1.0,667.33,Zloty,5/22/2023,Tokyo,true
+ValueMart,Chardonnay,1976,0.75,152.29,Yuan Renminbi,7/23/2023,Los Angeles,false
+QuickMart,Malbec,1991,0.75,395.2,Yuan Renminbi,7/30/2023,New York,false
+MegaStore,Pinot Noir,1931,0.75,480.1,Yuan Renminbi,1/4/2023,Paris,true
+ValueMart,Syrah,2000,0.5,930.55,Peso,2/7/2023,New York,true
+ValueMart,Cabernet Sauvignon,1976,1.0,572.22,Ruble,4/15/2023,New York,false
+ValueMart,Merlot,1974,0.75,461.71,Peso,10/13/2023,Paris,false
+MegaStore,Sauvignon Blanc,2011,1.0,512.07,Yuan Renminbi,1/24/2023,Tokyo,true
+ValueMart,Riesling,2011,0.5,426.99,Real,6/22/2023,Paris,false
+ShopSmart,Malbec,1913,1.0,120.64,Yuan Renminbi,5/31/2023,Los Angeles,true
+QuickMart,Grenache,1910,0.5,197.26,Dollar,6/22/2023,London,false
+ValueMart,Chardonnay,1969,0.5,424.69,Yuan Renminbi,3/28/2023,Tokyo,true
+SuperMart,Sauvignon Blanc,1910,1.0,425.97,Peso,8/27/2023,New York,false
+ShopSmart,Grenache,1993,1.0,718.05,Euro,2/7/2023,Los Angeles,true
+ShopSmart,Cabernet Sauvignon,1981,0.5,428.93,Euro,5/3/2023,London,true
+MegaStore,Cabernet Sauvignon,2016,0.75,248.02,Naira,5/27/2023,London,true
+ValueMart,Zinfandel,1943,0.5,639.6,Dollar,1/9/2023,New York,true
+MegaStore,Grenache,1998,1.0,407.68,Euro,3/7/2023,London,false
+SuperMart,Pinot Noir,1970,1.0,815.28,Ruble,1/25/2023,Paris,true
+SuperMart,Merlot,1941,1.0,447.02,Euro,5/12/2023,Tokyo,false
+SuperMart,Sauvignon Blanc,1930,0.5,433.06,Peso,3/7/2023,Los Angeles,false
+ShopSmart,Sauvignon Blanc,1975,0.75,278.59,Yuan Renminbi,6/13/2023,New York,true
+ValueMart,Malbec,2020,0.5,330.98,Yuan Renminbi,3/2/2023,Paris,true
+MegaStore,Chardonnay,1996,0.5,964.1,Dinar,7/23/2023,New York,true
+QuickMart,Syrah,1998,1.0,675.08,Euro,4/19/2023,Tokyo,false
+ValueMart,Zinfandel,1986,0.75,39.81,Tenge,12/31/2022,London,true
+QuickMart,Sauvignon Blanc,1962,1.0,4.44,Rupiah,5/16/2023,New York,true
+SuperMart,Syrah,1971,0.5,517.29,Yuan Renminbi,7/1/2023,Paris,true
+QuickMart,Riesling,1916,0.75,881.14,Rial,6/30/2023,New York,true
+SuperMart,Merlot,1916,0.5,116.18,Shekel,1/17/2023,Tokyo,false
+QuickMart,Syrah,1906,0.75,16.95,Real,4/5/2023,Tokyo,true
+QuickMart,Merlot,1985,0.5,933.15,Rand,8/22/2023,New York,false
+MegaStore,Zinfandel,1988,0.5,359.93,Won,8/22/2023,Tokyo,false
+ValueMart,Pinot Noir,1959,0.5,286.87,Somoni,8/27/2023,Paris,false
+MegaStore,Zinfandel,1963,0.5,214.95,Zloty,3/22/2023,Los Angeles,true
+ValueMart,Chardonnay,1967,0.5,360.96,Yuan Renminbi,12/21/2022,Los Angeles,false
+ValueMart,Cabernet Sauvignon,1996,1.0,163.96,Rupee,9/23/2023,Paris,false
+SuperMart,Zinfandel,1901,0.75,376.35,Peso,10/23/2022,Los Angeles,true
+SuperMart,Pinot Noir,1926,1.0,788.21,Peso,7/16/2023,Tokyo,false
+SuperMart,Grenache,1981,0.5,832.2,Euro,12/5/2022,New York,false
+SuperMart,Zinfandel,1925,1.0,617.63,Dinar,9/1/2023,Tokyo,true
+ShopSmart,Grenache,1924,1.0,844.71,Rial,6/5/2023,London,true
+ShopSmart,Zinfandel,2012,1.0,596.03,Krona,9/24/2023,Los Angeles,false
+ValueMart,Cabernet Sauvignon,1946,0.5,63.31,Franc,6/21/2023,Paris,true
+SuperMart,Sauvignon Blanc,1984,1.0,727.09,Tugrik,3/10/2023,London,true
+MegaStore,Cabernet Sauvignon,1922,0.75,268.66,Yuan Renminbi,3/28/2023,Los Angeles,true
+ShopSmart,Pinot Noir,1960,0.5,452.03,Zloty,4/30/2023,Tokyo,true
+MegaStore,Malbec,1900,0.75,410.56,Yuan Renminbi,3/14/2023,London,true
+ShopSmart,Zinfandel,1933,0.75,147.4,Euro,6/14/2023,London,false
+QuickMart,Pinot Noir,1998,0.5,340.38,Rupiah,9/2/2023,New York,false
+ValueMart,Syrah,1909,1.0,925.85,Krona,9/11/2023,Tokyo,false
+QuickMart,Sauvignon Blanc,1907,1.0,275.32,Rupiah,4/16/2023,Paris,true
+QuickMart,Sauvignon Blanc,1912,0.75,44.82,Shilling,3/14/2023,New York,false
+QuickMart,Pinot Noir,1963,1.0,442.69,Peso,7/19/2023,Los Angeles,true
+ValueMart,Merlot,1932,0.75,479.31,Dollar,2/15/2023,Tokyo,true
+SuperMart,Merlot,1907,0.5,659.19,Yuan Renminbi,7/15/2023,London,true
+MegaStore,Zinfandel,1963,1.0,673.69,Naira,6/19/2023,Los Angeles,false
+SuperMart,Cabernet Sauvignon,1985,1.0,271.61,Yuan Renminbi,3/28/2023,New York,false
+ValueMart,Grenache,1998,1.0,754.35,Baht,8/20/2023,London,true
+SuperMart,Grenache,2004,0.5,139.32,Zloty,10/31/2022,New York,true
+SuperMart,Sauvignon Blanc,1996,0.75,902.89,Colon,7/7/2023,New York,true
+MegaStore,Riesling,1987,1.0,437.21,Franc,8/15/2023,Tokyo,false
+SuperMart,Cabernet Sauvignon,1992,0.75,827.79,Yuan Renminbi,7/20/2023,Los Angeles,true
+MegaStore,Cabernet Sauvignon,2012,1.0,907.74,Dollar,2/7/2023,New York,false
+MegaStore,Zinfandel,1992,0.75,144.02,Krone,5/28/2023,New York,true
+ShopSmart,Pinot Noir,1905,0.75,157.66,Rupiah,11/16/2022,Los Angeles,true
+MegaStore,Cabernet Sauvignon,1977,0.75,866.82,Euro,1/5/2023,London,false
+MegaStore,Syrah,1929,1.0,189.85,Rupiah,2/1/2023,New York,false
+SuperMart,Grenache,1999,0.5,668.15,Krona,10/4/2023,Tokyo,false
+SuperMart,Malbec,2009,0.5,912.87,Naira,6/19/2023,Los Angeles,false
+MegaStore,Sauvignon Blanc,1916,1.0,53.32,Shilling,10/20/2023,New York,true
+SuperMart,Sauvignon Blanc,1962,0.75,735.35,Rial,10/31/2022,London,false
+QuickMart,Merlot,1923,0.5,559.54,Krona,2/17/2023,Paris,true
+MegaStore,Pinot Noir,1912,1.0,356.65,Yuan Renminbi,4/17/2023,Paris,false
+QuickMart,Zinfandel,1970,0.75,211.28,Rupiah,6/28/2023,London,false
+MegaStore,Grenache,1926,1.0,631.98,Yuan Renminbi,12/3/2022,Paris,true
+MegaStore,Merlot,1936,0.5,429.28,Dollar,5/7/2023,Paris,false
+QuickMart,Grenache,2019,1.0,942.84,Euro,2/4/2023,New York,false
+SuperMart,Merlot,1974,1.0,405.6,Ringgit,5/1/2023,New York,true
+MegaStore,Grenache,2007,0.75,182.23,Yuan Renminbi,11/9/2022,Los Angeles,true
+QuickMart,Riesling,1926,0.5,0.73,Yen,7/18/2023,London,false
+MegaStore,Syrah,1928,0.75,804.56,Pound,8/10/2023,London,true
+ValueMart,Chardonnay,1992,1.0,814.9,Baht,8/1/2023,Los Angeles,false
+ValueMart,Sauvignon Blanc,1912,0.5,120.4,Shekel,5/26/2023,Los Angeles,false
+ValueMart,Zinfandel,1969,0.75,758.35,Afghani,8/2/2023,Tokyo,true
+SuperMart,Chardonnay,1957,0.75,792.79,Lempira,11/11/2022,London,false
+MegaStore,Grenache,1963,0.75,511.66,Boliviano,12/2/2022,London,true
+MegaStore,Chardonnay,2014,0.5,377.49,Zloty,10/11/2023,Los Angeles,true
+ShopSmart,Pinot Noir,1979,1.0,392.15,Zloty,6/24/2023,Tokyo,true
+ValueMart,Grenache,1989,0.5,731.65,Yuan Renminbi,10/20/2023,Los Angeles,true
+SuperMart,Riesling,1949,1.0,886.88,Ruble,10/3/2023,Paris,false
+QuickMart,Merlot,1916,0.75,438.26,Yuan Renminbi,5/10/2023,Los Angeles,true
+QuickMart,Syrah,1932,1.0,23.16,Krona,10/31/2022,Tokyo,false
+SuperMart,Cabernet Sauvignon,1926,0.75,370.09,Pula,7/11/2023,London,true
+QuickMart,Riesling,1999,0.5,744.36,Dollar,3/8/2023,Paris,false
+MegaStore,Cabernet Sauvignon,1900,0.5,28.05,Peso,6/7/2023,Los Angeles,false
+MegaStore,Merlot,1952,0.5,615.56,Krona,3/18/2023,Los Angeles,true
+SuperMart,Merlot,2012,0.5,237.15,Franc,9/28/2023,Paris,false
+MegaStore,Pinot Noir,2015,0.75,953.79,Manat,10/11/2023,Los Angeles,false
+SuperMart,Sauvignon Blanc,1967,0.75,797.35,Rupiah,2/8/2023,New York,false
+ShopSmart,Riesling,1903,1.0,596.2,Naira,5/11/2023,London,true
+MegaStore,Merlot,1903,1.0,614.92,Hryvnia,11/22/2022,Paris,true
+SuperMart,Syrah,1906,0.75,928.05,Yen,8/24/2023,Tokyo,true
+QuickMart,Riesling,1913,0.75,360.41,Rand,6/4/2023,London,true
+QuickMart,Pinot Noir,1997,0.5,376.28,Dinar,1/26/2023,Paris,true
+ValueMart,Grenache,2003,1.0,285.47,Kwacha,7/21/2023,London,true
+ShopSmart,Merlot,1957,0.75,405.29,Rupiah,12/14/2022,Tokyo,true
+MegaStore,Merlot,1993,0.5,948.25,Yuan Renminbi,9/19/2023,New York,true
+SuperMart,Zinfandel,2009,0.75,215.01,Ruble,8/30/2023,Paris,true
+SuperMart,Pinot Noir,1938,0.75,463.38,Ruble,2/12/2023,Paris,true
+QuickMart,Merlot,2005,0.5,98.06,Euro,2/3/2023,Tokyo,true
+MegaStore,Grenache,1968,0.5,851.29,Tenge,3/25/2023,Tokyo,true
+ValueMart,Sauvignon Blanc,2012,0.5,823.63,Yuan Renminbi,10/30/2022,Paris,true
+ValueMart,Merlot,2018,0.75,539.12,Dollar,1/22/2023,Paris,true
+ShopSmart,Cabernet Sauvignon,1961,0.75,384.03,Yuan Renminbi,4/21/2023,Tokyo,true
+QuickMart,Zinfandel,1948,1.0,990.28,Yuan Renminbi,4/15/2023,New York,false
+ValueMart,Pinot Noir,1947,0.5,906.26,Real,9/6/2023,Tokyo,false
+SuperMart,Merlot,1931,1.0,628.78,Ruble,1/19/2023,New York,true
+ValueMart,Chardonnay,1939,1.0,695.66,Real,10/26/2022,New York,true
+ValueMart,Grenache,2021,0.75,174.76,Riels,12/19/2022,London,false
+ShopSmart,Zinfandel,1993,0.75,792.7,Peso,6/8/2023,Paris,true
+QuickMart,Zinfandel,1963,0.5,238.02,Yuan Renminbi,6/24/2023,Los Angeles,false
+QuickMart,Grenache,1937,0.5,191.61,Dollar,4/10/2023,Tokyo,false
+SuperMart,Cabernet Sauvignon,1982,1.0,971.13,Euro,2/28/2023,Los Angeles,true
+ValueMart,Merlot,1954,0.5,538.69,Dollar,2/3/2023,Los Angeles,false
+MegaStore,Merlot,1952,1.0,243.36,Dinar,11/28/2022,Tokyo,true
+MegaStore,Cabernet Sauvignon,1908,1.0,270.07,Euro,3/4/2023,Los Angeles,true
+ValueMart,Syrah,1955,1.0,82.41,Rupiah,3/15/2023,Los Angeles,false
+SuperMart,Malbec,1908,0.75,473.36,Yuan Renminbi,7/16/2023,New York,false
+ShopSmart,Sauvignon Blanc,1900,0.5,115.42,Rupiah,12/11/2022,New York,true
+MegaStore,Sauvignon Blanc,1961,1.0,565.47,Euro,2/3/2023,New York,true
+ValueMart,Syrah,1967,0.75,707.23,Rupiah,4/13/2023,Paris,false
+ValueMart,Sauvignon Blanc,2015,0.75,810.69,Zloty,2/4/2023,London,false
+SuperMart,Pinot Noir,1932,1.0,947.4,Pound,11/13/2022,Paris,true
+ShopSmart,Sauvignon Blanc,1959,0.75,810.19,Zloty,4/30/2023,Tokyo,true
+ValueMart,Chardonnay,1960,0.75,936.64,Yuan Renminbi,8/31/2023,London,true
+SuperMart,Malbec,1987,0.5,41.25,Yuan Renminbi,6/16/2023,London,false
+ValueMart,Zinfandel,1939,0.75,324.32,Euro,10/10/2023,Tokyo,true
+ValueMart,Zinfandel,2001,0.75,678.43,Dollar,4/6/2023,Los Angeles,false
+SuperMart,Grenache,1956,0.75,468.45,Yen,9/27/2023,New York,false
+QuickMart,Pinot Noir,1945,0.75,150.14,Rupiah,1/10/2023,Los Angeles,true
+QuickMart,Riesling,1959,0.75,318.46,Peso,1/4/2023,Tokyo,true
+ValueMart,Chardonnay,1970,1.0,362.14,Dinar,9/24/2023,London,false
+ShopSmart,Merlot,1922,1.0,576.7,Peso,8/9/2023,Tokyo,true
+ValueMart,Pinot Noir,1919,0.75,960.74,Real,10/13/2023,London,false
+QuickMart,Merlot,1908,0.5,516.54,Rupiah,9/13/2023,Los Angeles,true
+ValueMart,Chardonnay,1990,1.0,850.9,Rial,3/20/2023,Tokyo,true
+ShopSmart,Riesling,1974,0.75,514.53,Yuan Renminbi,8/12/2023,Paris,false
+ValueMart,Chardonnay,1942,0.75,857.93,Peso,10/10/2023,Los Angeles,false
+SuperMart,Malbec,1995,0.5,932.46,Yuan Renminbi,5/23/2023,Los Angeles,false
+MegaStore,Malbec,1996,0.75,406.32,Zloty,1/7/2023,Paris,false
+QuickMart,Chardonnay,1984,0.75,671.54,Real,1/20/2023,Tokyo,false
+SuperMart,Pinot Noir,1908,1.0,250.79,Rupiah,10/17/2023,Paris,false
+ValueMart,Malbec,1980,0.5,501.75,Birr,9/21/2023,Paris,false
+QuickMart,Malbec,1982,1.0,790.07,Sol,7/28/2023,London,true
+MegaStore,Grenache,1985,0.5,606.49,Bolivar,3/26/2023,Paris,true
+MegaStore,Syrah,1919,0.5,841.28,Peso,12/17/2022,Paris,true
+SuperMart,Grenache,1910,0.75,120.86,Yuan Renminbi,1/14/2023,London,false
+ShopSmart,Malbec,1970,0.75,492.12,Rupiah,10/18/2023,London,false
+ValueMart,Syrah,2014,0.5,459.43,Peso,2/12/2023,London,true
+SuperMart,Chardonnay,1921,0.5,962.32,Krona,8/31/2023,Los Angeles,true
+MegaStore,Riesling,1995,0.75,281.64,Rupiah,10/12/2023,New York,false
+MegaStore,Zinfandel,1928,0.5,580.57,Peso,3/2/2023,London,true
+SuperMart,Cabernet Sauvignon,1935,0.5,523.78,Yuan Renminbi,11/19/2022,Paris,true
+ValueMart,Cabernet Sauvignon,2015,0.5,272.08,Ruble,11/3/2022,Los Angeles,true
+QuickMart,Syrah,1951,0.75,165.44,Yuan Renminbi,10/28/2022,London,true
+SuperMart,Merlot,1943,1.0,205.86,Dollar,11/4/2022,Paris,false
+QuickMart,Syrah,1904,1.0,695.14,Ruble,10/10/2023,Tokyo,true
+ShopSmart,Pinot Noir,1978,0.5,224.22,Zloty,6/30/2023,London,true
+MegaStore,Cabernet Sauvignon,2009,1.0,799.97,Som,10/26/2022,New York,true
+MegaStore,Zinfandel,1911,1.0,152.19,Colon,10/12/2023,Paris,false
+SuperMart,Zinfandel,1948,1.0,872.38,Naira,12/1/2022,Los Angeles,false
+SuperMart,Syrah,1961,0.5,314.83,Krona,4/21/2023,Tokyo,true
+MegaStore,Zinfandel,1955,0.5,688.71,Yuan Renminbi,3/11/2023,London,true
+ValueMart,Sauvignon Blanc,1931,0.75,438.68,Sol,5/8/2023,Los Angeles,false
+ValueMart,Pinot Noir,1989,0.75,264.19,Yuan Renminbi,4/16/2023,New York,false
+ShopSmart,Pinot Noir,1930,0.75,801.74,Peso,10/27/2022,Los Angeles,true
+QuickMart,Malbec,1968,0.75,67.1,Peso,11/4/2022,Paris,false
+ValueMart,Syrah,1909,0.5,235.2,Euro,11/13/2022,Paris,true
+QuickMart,Zinfandel,1935,0.5,731.6,Dram,7/19/2023,Tokyo,false
+QuickMart,Merlot,1998,0.75,993.96,Yuan Renminbi,3/15/2023,New York,true
+ShopSmart,Malbec,1901,0.5,273.73,Rupiah,1/10/2023,New York,false
+ShopSmart,Malbec,1973,0.5,375.57,Peso,2/27/2023,Paris,false
+ShopSmart,Malbec,1932,0.75,725.73,Dollar,6/24/2023,Los Angeles,false
+ValueMart,Cabernet Sauvignon,1956,0.5,986.9,Yuan Renminbi,2/26/2023,New York,false
+ValueMart,Chardonnay,1954,0.75,622.03,Colon,2/16/2023,London,false
+ShopSmart,Zinfandel,1969,0.5,413.41,Bolivar,6/26/2023,Paris,true
+ValueMart,Syrah,1927,0.5,292.56,Peso,5/10/2023,London,false
+MegaStore,Syrah,1940,0.75,517.94,Real,6/16/2023,New York,true
+QuickMart,Syrah,1911,1.0,73.66,Ariary,4/30/2023,Tokyo,false
+ValueMart,Syrah,2011,0.75,804.32,Yuan Renminbi,1/5/2023,New York,true
+SuperMart,Malbec,1946,0.5,695.3,Euro,7/22/2023,Los Angeles,false
+MegaStore,Merlot,1959,0.75,721.69,Rupiah,6/8/2023,London,false
+ValueMart,Cabernet Sauvignon,1962,0.75,609.14,Peso,9/27/2023,Tokyo,true
+ShopSmart,Merlot,1993,0.75,195.61,Rupee,6/23/2023,New York,false
+ValueMart,Grenache,1913,1.0,906.32,Baht,8/14/2023,Los Angeles,true
+ShopSmart,Merlot,1919,1.0,388.46,Rupiah,4/24/2023,Tokyo,false
+QuickMart,Zinfandel,2006,1.0,75.18,Yuan Renminbi,9/13/2023,Paris,true
+ValueMart,Grenache,1900,0.75,153.36,Euro,5/1/2023,Los Angeles,true
+QuickMart,Chardonnay,1906,0.75,364.45,Yuan Renminbi,10/10/2023,Paris,true
+SuperMart,Grenache,1965,0.75,589.26,Zloty,10/11/2023,Paris,false
+SuperMart,Pinot Noir,1987,0.75,376.29,Koruna,5/19/2023,New York,true
+QuickMart,Riesling,1917,0.5,486.24,Zloty,4/5/2023,Paris,true
+ValueMart,Pinot Noir,1972,0.75,732.28,Peso,4/15/2023,London,false
+ValueMart,Sauvignon Blanc,1990,0.5,934.37,Rupiah,12/18/2022,Tokyo,true
+ShopSmart,Syrah,1942,0.5,242.3,Zloty,4/9/2023,London,true
+ShopSmart,Syrah,2014,0.5,151.69,Yuan Renminbi,1/22/2023,Paris,true
+MegaStore,Pinot Noir,2018,0.5,995.92,Peso,11/24/2022,London,false
+ShopSmart,Zinfandel,2000,0.5,558.64,Shekel,9/18/2023,Los Angeles,false
+SuperMart,Pinot Noir,1979,0.5,872.07,Yuan Renminbi,10/5/2023,New York,false
+MegaStore,Pinot Noir,1900,0.75,61.61,Peso,10/18/2023,Tokyo,true
+ValueMart,Zinfandel,1962,0.5,851.57,Euro,12/11/2022,Los Angeles,false
+MegaStore,Malbec,1977,0.5,531.51,Rupiah,5/10/2023,Paris,false
+ValueMart,Sauvignon Blanc,2012,0.75,325.23,Yuan Renminbi,1/26/2023,Paris,false
+ValueMart,Riesling,2020,0.75,522.9,Dong,8/4/2023,London,true
+QuickMart,Pinot Noir,1963,0.75,93.04,Rupiah,9/28/2023,London,false
+SuperMart,Merlot,1926,0.5,710.32,Rupiah,3/20/2023,New York,true
+ValueMart,Malbec,1950,1.0,902.19,Birr,1/15/2023,Paris,false
+ValueMart,Chardonnay,1984,1.0,947.22,Yuan Renminbi,7/20/2023,Los Angeles,true
+MegaStore,Pinot Noir,2010,0.5,421.21,Euro,5/29/2023,London,true
+ShopSmart,Malbec,1917,0.75,947.73,Euro,12/20/2022,New York,false
+QuickMart,Merlot,1924,1.0,723.29,Rupiah,8/3/2023,Paris,true
+QuickMart,Riesling,1963,0.5,360.98,Rial,4/2/2023,London,true
+ValueMart,Pinot Noir,1967,0.75,46.47,Dollar,5/10/2023,Los Angeles,false
+MegaStore,Cabernet Sauvignon,1988,0.75,972.13,Rial,10/12/2023,Tokyo,true
+ValueMart,Sauvignon Blanc,1946,0.75,477.08,Rupiah,2/19/2023,Los Angeles,false
+SuperMart,Pinot Noir,1934,1.0,365.27,Quetzal,9/24/2023,New York,true
+SuperMart,Syrah,1999,1.0,202.76,Colon,4/5/2023,New York,true
+ShopSmart,Riesling,1911,1.0,281.22,Yuan Renminbi,10/3/2023,London,false
+ValueMart,Cabernet Sauvignon,1942,0.5,312.4,Koruna,8/19/2023,Tokyo,true
+QuickMart,Sauvignon Blanc,1930,0.5,550.58,Yuan Renminbi,10/7/2023,New York,true
+ShopSmart,Malbec,1906,0.5,687.14,Zloty,12/5/2022,Tokyo,false
+ValueMart,Syrah,1978,0.75,327.04,Dollar,2/12/2023,Paris,true
