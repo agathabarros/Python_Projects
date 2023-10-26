@@ -5,7 +5,6 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
@@ -18,7 +17,7 @@ navegador = webdriver.Chrome(service=servico)
 
 #https://www.elcorteingles.pt/supermercado/
 #https://www.garrafeirasoares.pt/pt/
-#
+
 html = "https://www.continente.pt/"
 navegador.get(html)
 
@@ -28,7 +27,7 @@ try:
     #tratamento cooki continet
     button = navegador.find_element(By.CSS_SELECTOR, 'button[aria-label="Introduza o termo que deseja pesquisar"]').click()
     search_input = navegador.find_element(By.CSS_SELECTOR, 'input[aria-label="Introduza o termo que deseja pesquisar"]').send_keys("5601012001310")
-
+    #search_input.send_keys(RETURN)
 
 
 
